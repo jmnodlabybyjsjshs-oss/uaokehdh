@@ -1,19 +1,8 @@
-{
-  "users": [
-    {
-      "username": "admin",
-      "password": "admin123",
-      "role": "OWNER"
-    },
-    {
-      "username": "xielon",
-      "password": "aB3#xK9!mQ",
-      "role": "OWNER"
-    },
-    {
-      "username": "Vxzyouv",
-      "password": "VE2HitTVbL",
-      "role": "OWNER"
-    }
-  ]
-}
+[
+  {
+    "username": "Vxzyouv",
+    "password": "password123",
+    "role": "OWNER",
+    "id": 8455879950
+  }
+]
